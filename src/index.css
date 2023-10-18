@@ -1,13 +1,9 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Seu arquivo CSS personalizado */
+.custom-image {
+  width: 100%; /* Para ocupar toda a largura da tela */
+  height: auto; /* Para manter a proporção original da imagem */
+  max-height: 500px; /* Defina a altura máxima desejada (ajuste conforme necessário) */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
+
